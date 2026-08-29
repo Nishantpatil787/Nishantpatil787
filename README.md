@@ -7,7 +7,7 @@ I build practical systems using **code, data and intelligent algorithms**.
 I'm interested in Artificial Intelligence, Machine Learning, Software Development, Data Analytics and building technology that solves real-world problems.
 
 <p align="center">
-  <a href="https://nishant-portfolio-flame.vercel.app">
+  <a href="https://nishant-portfolio-a8bt.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-7C5CFF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nishant-patil-0590253a3">
@@ -59,7 +59,7 @@ A technology-focused project aimed at addressing practical agricultural challeng
 
 **Technology • Problem Solving • Real-world Applications**
 
-🔗 [View Portfolio](https://nishant-portfolio-flame.vercel.app)
+🔗 [View Portfolio](https://nishant-portfolio-a8bt.vercel.app)
 
 ---
 
